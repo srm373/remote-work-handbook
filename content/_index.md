@@ -1,6 +1,6 @@
 ---
-title: "NTT Com Remote Work Handbook"
-description: "NTT コミュニケーションズがまとめた、リモートワークにおける働き方の参考書です。"
+title: "NTT DOCOMO BUSINESS Remote Work Handbook"
+description: "NTTドコモビジネスがまとめた、リモートワークにおける働き方の参考書です。"
 draft: false
 date: 2020-10-22T00:00:00+09:00
 lastmod: 2020-11-09T14:03:00+09:00
@@ -15,7 +15,7 @@ NTTコミュニケーションズ社内で製作したリモートワークハ�
 本書のソースコードは https://github.com/nttcom/remote-work-handbook で公開しています。
 
 ## ライセンス
-NTT Communications Corporation 作『リモートワーク ハンドブック』は [クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/) で提供されています。
+NTT DOCOMO BUSINESS, Inc. 作『リモートワーク ハンドブック』は [クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/) で提供されています。
 
 ## 関連ハンドブック
 
